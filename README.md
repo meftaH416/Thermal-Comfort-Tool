@@ -1,0 +1,1 @@
+This simple python file gives the user flexibility to check whether their thermal values are within ASHRAE comfort ranges or not. We used online free avaliable CBT tool and use web scrapping for input user values. This is simple but interesting codes.
